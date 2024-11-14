@@ -38,15 +38,23 @@ gui=graphic user interface
 
 8. 한글설치
 
--sudo apt-get update ![image](https://github.com/user-attachments/assets/8d7b898d-de4f-4d52-bc45-1411b1072ec6)
+-sudo apt-get update 
+
+![image](https://github.com/user-attachments/assets/8d7b898d-de4f-4d52-bc45-1411b1072ec6)
+
 - sudo apt-get install fcitx-hangul
+  
 ![image](https://github.com/user-attachments/assets/5e054002-b8af-418f-931e-7f383ea6692f)
 
 -configure
+
 ![image](https://github.com/user-attachments/assets/5e7d671b-531a-41ab-920a-f62e9858e62b)
 
 -hangul찾아서 체크
+
 ![image](https://github.com/user-attachments/assets/020efd0f-bb39-49d6-b066-f568188864e5)
+
+
 
 
 9. 카메라 설치 및 연결
@@ -68,7 +76,11 @@ gui=graphic user interface
   
        
    ![image](https://github.com/user-attachments/assets/f0fda729-01f3-4a76-b302-64d543ddf060)
+
+
     6) csi 카메라 - 로봇에 달려있는 카메라
+  
+    
     7) dli@dli-desktop-/USB-Camera$ ls는하위폴더
 
 
