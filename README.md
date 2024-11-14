@@ -34,28 +34,38 @@ gui=graphic user interface
 
 ![image](https://github.com/user-attachments/assets/b1e8b788-b561-4f2c-a474-f76fc3982c74)
 
+
+
 8. 한글설치
-   -sudo apt-get update
-   ![image](https://github.com/user-attachments/assets/8d7b898d-de4f-4d52-bc45-1411b1072ec6)
-   - sudo apt-get install fcitx-hangul
-   ![image](https://github.com/user-attachments/assets/5e054002-b8af-418f-931e-7f383ea6692f)
 
-   -configure
-   ![image](https://github.com/user-attachments/assets/5e7d671b-531a-41ab-920a-f62e9858e62b)
+-sudo apt-get update ![image](https://github.com/user-attachments/assets/8d7b898d-de4f-4d52-bc45-1411b1072ec6)
+- sudo apt-get install fcitx-hangul
+![image](https://github.com/user-attachments/assets/5e054002-b8af-418f-931e-7f383ea6692f)
 
-   -hangul찾아서 체크
-   ![image](https://github.com/user-attachments/assets/020efd0f-bb39-49d6-b066-f568188864e5)
+-configure
+![image](https://github.com/user-attachments/assets/5e7d671b-531a-41ab-920a-f62e9858e62b)
+
+-hangul찾아서 체크
+![image](https://github.com/user-attachments/assets/020efd0f-bb39-49d6-b066-f568188864e5)
 
 
 9. 카메라 설치 및 연결
     1) 카메라를 젯슨에 연결
-    2) dli@dli-desktop:~$  ls /dev/vi*명령어를 작성하여 카메라 인식하는지 확인
-    3) dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
+    2) dli@dli-desktop:~$  ls /dev/vi* -작성하여 카메라 인식하는지 확인
+![image](https://github.com/user-attachments/assets/2cb047f0-6156-4740-b5f9-b61dc1d2f8ce)
+
+    3) dli@dli-desktop:~$ git clone https://github.com/jetsonhacks/USB-Camera.git - 카메라 불러오는 명령어
+![image](https://github.com/user-attachments/assets/d04d56e6-d2e4-474a-852b-2f4d02d1dc10)
+
+
+
+
+    4) dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
    ![image](https://github.com/user-attachments/assets/da051c1f-9562-436a-9342-13f9fff575ae)
-    4) dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py
+    5) dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py
    ![image](https://github.com/user-attachments/assets/f0fda729-01f3-4a76-b302-64d543ddf060)
-    5) csi 카메라 - 로봇에 달려있는 카메라
-    6) dli@dli-desktop-/USB-Camera$ ls -  하위폴더
+    6) csi 카메라 - 로봇에 달려있는 카메라
+    7) dli@dli-desktop-/USB-Camera$ ls는하위폴더
 
 
 
