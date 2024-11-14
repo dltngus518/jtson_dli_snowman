@@ -89,7 +89,9 @@ gui=graphic user interface
 
    
 
-
+10. NVIDIA 실습
+    -독고설치
+    -스왑과정
 
 
    
