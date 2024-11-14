@@ -46,6 +46,19 @@ gui=graphic user interface
    -hangul찾아서 체크
    ![image](https://github.com/user-attachments/assets/020efd0f-bb39-49d6-b066-f568188864e5)
 
+
+9. 카메라 설치 및 연결
+    1) 카메라를 젯슨에 연결
+    2) dli@dli-desktop:~$  ls /dev/vi*명령어를 작성하여 카메라 인식하는지 확인
+    3) dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py ![image](https://github.com/user-attachments/assets/da051c1f-9562-436a-9342-13f9fff575ae)
+    4) dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py ![image](https://github.com/user-attachments/assets/f0fda729-01f3-4a76-b302-64d543ddf060)
+    5) csi 카메라 - 로봇에 달려있는 카메라
+    6) dli@dli-desktop-/USB-Camera$ ls - 이거는 하위폴더
+
+
+
+
+
    
 
 
