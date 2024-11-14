@@ -59,13 +59,17 @@ gui=graphic user interface
 
 
     4) dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py 실행시 카메라
+  
+   
    ![image](https://github.com/user-attachments/assets/da051c1f-9562-436a-9342-13f9fff575ae)
 
 
-    6) dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py 실행시 카메라
+    5) dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py 실행시 카메라
+  
+       
    ![image](https://github.com/user-attachments/assets/f0fda729-01f3-4a76-b302-64d543ddf060)
-    7) csi 카메라 - 로봇에 달려있는 카메라
-    8) dli@dli-desktop-/USB-Camera$ ls는하위폴더
+    6) csi 카메라 - 로봇에 달려있는 카메라
+    7) dli@dli-desktop-/USB-Camera$ ls는하위폴더
 
 
 
