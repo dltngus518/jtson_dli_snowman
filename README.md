@@ -87,12 +87,34 @@ gui=graphic user interface
 
 
 
-   
 
-10. NVIDIA 실습
-    -독고설치
-    -스왑과정
 
+11.21
+-docker설치
+
+![image](https://github.com/user-attachments/assets/8c825cd9-659b-4804-acca-102fba627b01)
+
+
+-swap과정 
+ -시스템 GPU모드로 설정
+
+
+-주피터 실행
+
+![image](https://github.com/user-attachments/assets/789f712c-d143-4ba6-a1db-60a06f65759a)
+
+1)classification
+
+-데이터 준비
+
+![image](https://github.com/user-attachments/assets/13dcb171-b6a7-409b-bc7c-f2e4660a373d)
+
+![image](https://github.com/user-attachments/assets/62e49273-efde-4dbb-be0f-32ed34dbed30)
+
+
+-데이터 기반 train
+
+![image](https://github.com/user-attachments/assets/6a3456ed-7f80-4d5d-87de-b1df35ab6a23)
 
    
 
