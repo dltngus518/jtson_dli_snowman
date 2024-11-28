@@ -3,21 +3,21 @@
 
 # 목차
 
-# 1.SD 카드 준비
+## 1.SD 카드 준비
 
-# 2.JetPack 설치
+## 2.JetPack 설치
 
-# 3.Jetson Nano 설정
+## 3.Jetson Nano 설정
 
-# 4.Ubuntu 설치
+## 4.Ubuntu 설치
 
-# 5.한글 환경 설정
+## 5.한글 환경 설정
 
-# 6.카메라 설정
+## 6.카메라 설정
 
-# 7.Docker 및 Jupyter 설치
+## 7.Docker 및 Jupyter 설치
 
-# 8.Classification 프로젝트
+## 8.Classification 프로젝트
 
 
 
