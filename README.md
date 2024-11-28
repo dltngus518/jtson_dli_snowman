@@ -1,25 +1,29 @@
 # jtson_dli_snowman
 
 
-목차
+# 목차
 
-1.SD 카드 준비
+# 1.SD 카드 준비
 
-2.JetPack 설치
+# 2.JetPack 설치
 
-3.Jetson Nano 설정
+# 3.Jetson Nano 설정
 
-4.Ubuntu 설치
+# 4.Ubuntu 설치
 
-5.한글 환경 설정
+# 5.한글 환경 설정
 
-6.카메라 설정
+# 6.카메라 설정
 
-7.Docker 및 Jupyter 설치
+# 7.Docker 및 Jupyter 설치
 
-8.Classification 프로젝트
+# 8.Classification 프로젝트
 
-1. SD 카드 준비
+
+
+
+
+## 1.SD 카드 준비
    
 -sd카드 포멧팅하고 다운로드받는다.
 
@@ -34,11 +38,11 @@
 gui=graphic user interface
 
 
-2. JetPack 설치
+## 2. JetPack 설치
    
    -SD 카드를 Jetson Nano에 삽입
    
-3.Jetson Nano 설정
+## 3.Jetson Nano 설정
 
 ![image](https://github.com/user-attachments/assets/f2785571-9f20-4fef-8aa2-fe6cb6b87a41)
 
@@ -48,7 +52,7 @@ gui=graphic user interface
     -주의사항 : sd카드 넣고 뺄때 가볍게 눌러준다
 
 
-4.우분투 설치
+## 4.우분투 설치
 
 -부팅 후 우분투 설치
 -기본 설정 완료 : 네트워크 연결, 계정생성 등
@@ -68,7 +72,7 @@ gui=graphic user interface
 
 
 
-5. 한글설치
+## 5. 한글설치
 
 -sudo apt-get update 
 
@@ -89,7 +93,7 @@ gui=graphic user interface
 -시스템 재부팅 후 한글 입력 확인인
 
 
-6. 카메라 설치 및 연결
+## 6. 카메라 설치 및 연결
     1) 카메라를 젯슨에 연결
     2) dli@dli-desktop:~$  ls /dev/vi* -작성하여 카메라 인식하는지 확인
 ![image](https://github.com/user-attachments/assets/2cb047f0-6156-4740-b5f9-b61dc1d2f8ce)
@@ -120,7 +124,7 @@ gui=graphic user interface
 
 
 
-7.Docker 및 jupyter 설치
+## 7.Docker 및 jupyter 설치
 
 -docker설치
 
@@ -136,7 +140,7 @@ gui=graphic user interface
 ![image](https://github.com/user-attachments/assets/789f712c-d143-4ba6-a1db-60a06f65759a)
 
 
-8.classification
+## 8.classification
 
 -데이터 준비
 
