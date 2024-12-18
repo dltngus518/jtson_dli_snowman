@@ -7,7 +7,7 @@
 
 ## 2.JetPack 설치
 
-## 3.Jetson Nano 연결결
+## 3.Jetson Nano 연결
 
 ## 4.Ubuntu 설치
 
