@@ -7,7 +7,7 @@
 
 ## 2.JetPack 설치
 
-## 3.Jetson Nano 설정
+## 3.Jetson Nano 연결결
 
 ## 4.Ubuntu 설치
 
@@ -42,7 +42,7 @@ gui=graphic user interface
    
    -SD 카드를 Jetson Nano에 삽입
    
-## 3.Jetson Nano 설정
+## 3.Jetson Nano 연결
 
 ![image](https://github.com/user-attachments/assets/f2785571-9f20-4fef-8aa2-fe6cb6b87a41)
 
